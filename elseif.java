@@ -9,5 +9,6 @@ public class elseif {
         } else {
             System.out.println("Number is invalid");
         }
+        
     }
 }
