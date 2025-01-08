@@ -1,7 +1,7 @@
 
 # Project Title
 
-A brief description of what this project does and who it's for
+A [brief](https://translate.google.com/?sl=en&tl=mr&op=translate) description of what this project does and who it's for
 
 
 ## Acknowledgements
