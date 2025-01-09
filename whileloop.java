@@ -5,5 +5,6 @@ public class Whileloop{
             System.out.println("its small number"+i);
             i++;
         }
+        // System.out.println("hi" + i);
     }
 }
